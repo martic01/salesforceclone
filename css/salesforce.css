@@ -77,21 +77,20 @@ a {
 #bt1:hover {
     background-color: #032d60;
 }
-
 #bt2 {
-    font-size: 15px;
+    font-size: 17px;
     width: 173.82px;
     height: 52px;
-    border: 2px solid #1876d3;
+    border: 3px solid #1065bb;
     background-color: #ffffff;
-    color: #1876d3;
+    color: #166dc4;
     border-radius: 4px;
 }
 
 #bt2:hover {
     background-color: #daecfcc9;
     color: #02234b;
-    border: 2px solid #02234b;
+    border: 3px solid #02234b;
 }
 
 .topbar1 {
@@ -706,7 +705,7 @@ a {
     height: 490px;
     width: 400px;
     background-color: #ffffff;
-    box-shadow: 6px 6px 12px -10px;
+    box-shadow:8px 6px 12px -10px;
     border-radius: 15px;
 }
 #textfr3 {
@@ -732,7 +731,81 @@ a {
 }
 
 .inboximg0{
-    width: 150px;
+ width: 150px;
     height:150px;
     margin: 30px 120px;
 }
+.head6{
+    width:60%;
+    height: 500px;
+    margin:10px 400px;
+}
+
+#btlg3{
+    margin: 140Px 400px ;
+    font-size: 20px;
+    width: 190px;
+    height: 60px;
+    border: 3px solid #1876d3;
+    background-color: #ffffff;
+    color: #1876d3;
+    border-radius: 4px;
+}
+
+#btlg3:hover {
+    background-color: #daecfcc9;
+    color: #02234b;
+    border: 3px solid #02234b;
+}
+#headi {
+    text-align: center;
+    font-size: 60px;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    margin: -60px 0px;
+    color: #032d60;
+}
+#imgsd {
+
+    height: 370px;
+    width: 650px;
+    border-radius: 3px;
+    margin: 30px 920px;
+    border: none;
+}
+#light1 {
+    margin: -180px 120px;
+    font-size: 22px;
+    text-align: left;
+
+}
+#bt3 {
+    margin: 220px 126px;
+    font-size: 17px;
+    width: 173.82px;
+    height: 52px;
+    border: 3px solid #1065bb;
+    background-color: #ffffff;
+    color: #166dc4;
+    border-radius: 4px;
+}
+
+#bt3:hover {
+    background-color: #daecfcc9;
+    color: #02234b;
+    border: 3px solid #02234b;
+}
+#bold2 {
+    font-size: 60px;
+    margin: 200px 120px;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    color: #032d60;
+}
+
+
+
